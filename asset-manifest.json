@@ -1,11 +1,11 @@
 {
   "files": {
-    "main.css": "/Autokratz/Autokratz-portfolio/static/css/main.3dca3455.css",
-    "main.js": "/Autokratz/Autokratz-portfolio/static/js/main.71716951.js",
-    "index.html": "/Autokratz/Autokratz-portfolio/index.html"
+    "main.css": "/Autokratz-portfolio/static/css/main.3dca3455.css",
+    "main.js": "/Autokratz-portfolio/static/js/main.bdcb7250.js",
+    "index.html": "/Autokratz-portfolio/index.html"
   },
   "entrypoints": [
     "static/css/main.3dca3455.css",
-    "static/js/main.71716951.js"
+    "static/js/main.bdcb7250.js"
   ]
 }
