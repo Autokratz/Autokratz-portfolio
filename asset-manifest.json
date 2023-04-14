@@ -1,0 +1,11 @@
+{
+  "files": {
+    "main.css": "/Autokratz.github.io/static/css/main.3dca3455.css",
+    "main.js": "/Autokratz.github.io/static/js/main.b2b086a3.js",
+    "index.html": "/Autokratz.github.io/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.3dca3455.css",
+    "static/js/main.b2b086a3.js"
+  ]
+}
